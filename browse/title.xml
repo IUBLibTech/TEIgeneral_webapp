@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:functx="http://www.functx.com"
+      xmlns:exsl="http://exslt.org/common"
+      xmlns:iutei="http://www.dlib.indiana.edu/collections/TEIgeneral/">
+   <term size="1">Adventures of a Brownie<actualTerm>The Adventures of a Brownie</actualTerm>
+   </term>
+   <term size="1">Anarchism and Violence</term>
+   <term size="1">Anarchist Manifesto<actualTerm>An Anarchist Manifesto</actualTerm>
+   </term>
+   <term size="1">Ascent of Man<actualTerm>The Ascent of Man</actualTerm>
+   </term>
+   <term size="1">At Midnight</term>
+   <term size="1">Autobiography of Christopher Kirkland, Volume 1<actualTerm>The Autobiography of Christopher Kirkland, Volume 1</actualTerm>
+   </term>
+   <term size="1">Autobiography of Christopher Kirkland, Volume 2<actualTerm>The Autobiography of Christopher Kirkland, Volume 2</actualTerm>
+   </term>
+   <term size="1">Autobiography of Christopher Kirkland, Volume 3<actualTerm>The Autobiography of Christopher Kirkland, Volume 3</actualTerm>
+   </term>
+   <term size="1">Avillion and Other Tales, Volume 1</term>
+   <term size="1">Ballad of Religion and Marriage<actualTerm>A Ballad of Religion and Marriage</actualTerm>
+   </term>
+   <term size="1">Ballad of Victory and Other Poems<actualTerm>A Ballad of Victory and Other Poems</actualTerm>
+   </term>
+   <term size="1">Ballads and Lyrics of Socialism</term>
+   <term size="1">Ballads and Songs</term>
+   <term size="1">Beyond the Pale</term>
+   <term size="1">Birds of Passage</term>
+   <term size="1">Blanche Lisle and Other Poems</term>
+   <term size="1">Book of Rhyme<actualTerm>A Book of Rhyme</actualTerm>
+   </term>
+   <term size="1">Brief Summary in Plain Language of the Most Important Laws Concerning Women<actualTerm>A Brief Summary in Plain Language of the Most Important Laws Concerning Women</actualTerm>
+   </term>
+   <term size="1">Carissima<actualTerm>The Carissima</actualTerm>
+   </term>
+   <term size="1">Chiefly a Dialogue</term>
+   <term size="1">Child of the Islands<actualTerm>The Child of the Islands</actualTerm>
+   </term>
+   <term size="1">Claim of Englishwomen to the Suffrage Constitutionally Considered<actualTerm>The Claim of Englishwomen to the Suffrage Constitutionally Considered</actualTerm>
+   </term>
+   <term size="1">Closer Union<actualTerm>A Closer Union</actualTerm>
+   </term>
+   <term size="1">Cometh Up as a Flower, Volume 1</term>
+   <term size="1">Cometh Up as a Flower, Volume 2</term>
+   <term size="1">Common-Sense Country</term>
+   <term size="1">Complete Poetical Works of Constance Naden<actualTerm>The Complete Poetical Works of Constance Naden</actualTerm>
+   </term>
+   <term size="1">Criminals, Idiots, Women and Minors</term>
+   <term size="1">Daffodil and the Croäxaxicans</term>
+   <term size="1">Dame Nature's Dumb Sermon</term>
+   <term size="1">Daphne, or Marriage a la Mode</term>
+   <term size="1">Daughters of Danaus<actualTerm>The Daughters of Danaus</actualTerm>
+   </term>
+   <term size="1">Dog of Flanders and Other Stories<actualTerm>A Dog of Flanders and Other Stories</actualTerm>
+   </term>
+   <term size="1">Dramas in Miniature</term>
+   <term size="1">Dramatic Studies</term>
+   <term size="1">Dream and Other Poems<actualTerm>The Dream and Other Poems</actualTerm>
+   </term>
+   <term size="1">Dream Life and Real Life</term>
+   <term size="1">Dreams</term>
+   <term size="1">Education and Employment of Women<actualTerm>The Education and Employment of Women</actualTerm>
+   </term>
+   <term size="1">Enchanted Castle<actualTerm>The Enchanted Castle</actualTerm>
+   </term>
+   <term size="1">Enchanted Tulips and Other Verses for Children</term>
+   <term size="1">England's Effort</term>
+   <term size="1">English Laws for Women in the Nineteenth Century</term>
+   <term size="1">Female Ministry</term>
+   <term size="1">Female Teaching</term>
+   <term size="1">Five Children and It</term>
+   <term size="1">Folle-Farine</term>
+   <term size="1">George Eliot</term>
+   <term size="1">Gospels of Anarchy and Other Contemporary Studies</term>
+   <term size="1">Guide to the Unprotected in Every-day Matters Relating to Property and Income</term>
+   <term size="1">Hand in the Dark and Other Poems<actualTerm>The Hand in the Dark and Other Poems</actualTerm>
+   </term>
+   <term size="1">Harriet Martineau's Autobiography, Volume 1</term>
+   <term size="1">Hauntings</term>
+   <term size="1">Hawaiian Archipelago<actualTerm>The Hawaiian Archipelago</actualTerm>
+   </term>
+   <term size="1">Hearts of Controversy</term>
+   <term size="1">Heather on Fire<actualTerm>The Heather on Fire</actualTerm>
+   </term>
+   <term size="1">Heir of Redclyffe, Volume 1<actualTerm>The Heir of Redclyffe, Volume 1</actualTerm>
+   </term>
+   <term size="1">Henrietta’s Wish</term>
+   <term size="1">History of Sir Richard Calmady<actualTerm>The History of Sir Richard Calmady</actualTerm>
+   </term>
+   <term size="1">I Watched the Heavens</term>
+   <term size="1">In a Walled Garden</term>
+   <term size="1">In Homespun</term>
+   <term size="1">In Summer-Time</term>
+   <term size="1">Incomplete Amorist<actualTerm>The Incomplete Amorist</actualTerm>
+   </term>
+   <term size="1">Inheritance of Evil, Or, the Consequence of Marrying a Deceased Wife’s Sister<actualTerm>The Inheritance of Evil, Or, the Consequence of Marrying a Deceased Wife’s Sister</actualTerm>
+   </term>
+   <term size="1">Iniquity of State Regulated Vice<actualTerm>The Iniquity of State Regulated Vice</actualTerm>
+   </term>
+   <term size="1">John Greswold, Volume 1</term>
+   <term size="1">John Greswold, Volume 2</term>
+   <term size="1">Key-notes</term>
+   <term size="1">Lady Audley's Secret, Volume 1</term>
+   <term size="1">Lady Audley's Secret, Volume 2</term>
+   <term size="1">Lady Audley's Secret, Volume 3</term>
+   <term size="1">Lady of La Garaye<actualTerm>The Lady of La Garaye</actualTerm>
+   </term>
+   <term size="1">Lady’s Life in the Rocky Mountains<actualTerm>A Lady’s Life in the Rocky Mountains</actualTerm>
+   </term>
+   <term size="1">Lays and Legends</term>
+   <term size="1">Letter to the Queen on Lord Chancellor Cranworth’s Marriage and Divorce Bill<actualTerm>A Letter to the Queen on Lord Chancellor Cranworth’s Marriage and Divorce Bill</actualTerm>
+   </term>
+   <term size="1">Letters to the Mob</term>
+   <term size="1">Liberty Lyrics</term>
+   <term size="1">Light Load<actualTerm>A Light Load</actualTerm>
+   </term>
+   <term size="1">Lilian Gray: a Poem</term>
+   <term size="1">Limbo and other Essays</term>
+   <term size="1">Little Lame Prince and His Travelling Cloak<actualTerm>The Little Lame Prince and His Travelling Cloak</actualTerm>
+   </term>
+   <term size="1">Little Seal-skin</term>
+   <term size="1">London Plane-Tree and Other Verse<actualTerm>A London Plane-Tree and Other Verse</actualTerm>
+   </term>
+   <term size="1">Manor House and Other Poems<actualTerm>The Manor House and Other Poems</actualTerm>
+   </term>
+   <term size="1">Many Voices</term>
+   <term size="1">Marcella, Volume 1</term>
+   <term size="1">Marcella, Volume 2</term>
+   <term size="1">Mighty Atom<actualTerm>The Mighty Atom</actualTerm>
+   </term>
+   <term size="1">Minor Poet and Other Verse<actualTerm>A Minor Poet and Other Verse</actualTerm>
+   </term>
+   <term size="1">Miss Brown, Volume 1</term>
+   <term size="1">Miss Brown, Volume 2</term>
+   <term size="1">Miss Brown, Volume 3</term>
+   <term size="1">Modern Marriage Market<actualTerm>The Modern Marriage Market</actualTerm>
+   </term>
+   <term size="1">Morlas<actualTerm>The Morlas</actualTerm>
+   </term>
+   <term size="1">Mother and Daughter</term>
+   <term size="1">Mrs. Butler’s Appeal to the Women of America</term>
+   <term size="1">My Flirtations</term>
+   <term size="1">Native Races and the War</term>
+   <term size="1">New Godiva<actualTerm>The New Godiva</actualTerm>
+   </term>
+   <term size="1">Nine Poems</term>
+   <term size="1">Objections to the Enfranchisement of Women Considered</term>
+   <term size="1">Olive, Volume 1</term>
+   <term size="1">Olive, Volume 2</term>
+   <term size="1">Olive, Volume 3</term>
+   <term size="1">One Doubtful Hour</term>
+   <term size="1">Our Policy: An Address to Women Concerning the Suffrage</term>
+   <term size="1">Papers on Aggressive Christianity</term>
+   <term size="1">Papers on Practical Religion</term>
+   <term size="1">Passing of the Great Queen<actualTerm>The Passing of the Great Queen</actualTerm>
+   </term>
+   <term size="1">Paul Ferroll</term>
+   <term size="1">Penitentiaries and Reformatories</term>
+   <term size="1">Plain Letter to the Lord Chancellor on the Infant Custody Bill<actualTerm>A Plain Letter to the Lord Chancellor on the Infant Custody Bill</actualTerm>
+   </term>
+   <term size="5">Poems</term>
+   <term size="1">Poems by Claude Lake</term>
+   <term size="1">Poems, Lyrics, and Sonnets</term>
+   <term size="1">Political Situation<actualTerm>The Political Situation</actualTerm>
+   </term>
+   <term size="1">Pomander of Verse<actualTerm>A Pomander of Verse</actualTerm>
+   </term>
+   <term size="1">Popular Christianity</term>
+   <term size="1">Portraits</term>
+   <term size="1">Potter's Thumb, Volume 1<actualTerm>The Potter's Thumb, Volume 1</actualTerm>
+   </term>
+   <term size="1">Potter's Thumb, Volume 2<actualTerm>The Potter's Thumb, Volume 2</actualTerm>
+   </term>
+   <term size="1">Potter’s Thumb, Volume 3<actualTerm>The Potter’s Thumb, Volume 3</actualTerm>
+   </term>
+   <term size="1">Prophecy of Saint Oran and Other Poems<actualTerm>The Prophecy of Saint Oran and Other Poems</actualTerm>
+   </term>
+   <term size="1">Queen’s Ball<actualTerm>The Queen’s Ball</actualTerm>
+   </term>
+   <term size="1">Railway Children<actualTerm>The Railway Children</actualTerm>
+   </term>
+   <term size="1">Rainbow and the Rose<actualTerm>The Rainbow and the Rose</actualTerm>
+   </term>
+   <term size="1">Reasons For and Against the Enfranchisement of Women</term>
+   <term size="1">Red Flag in John Bull’s Eyes<actualTerm>The Red Flag in John Bull’s Eyes</actualTerm>
+   </term>
+   <term size="1">Red House<actualTerm>The Red House</actualTerm>
+   </term>
+   <term size="1">Red Pottage</term>
+   <term size="1">Rhythm of Life<actualTerm>The Rhythm of Life</actualTerm>
+   </term>
+   <term size="1">Roadside Harp<actualTerm>A Roadside Harp</actualTerm>
+   </term>
+   <term size="1">Romance of Two Worlds, Volume 1<actualTerm>A Romance of Two Worlds, Volume 1</actualTerm>
+   </term>
+   <term size="1">Romance of Two Worlds, Volume 2<actualTerm>A Romance of Two Worlds, Volume 2</actualTerm>
+   </term>
+   <term size="1">Sanctuary of Mercy<actualTerm>The Sanctuary of Mercy</actualTerm>
+   </term>
+   <term size="1">Scenes from a Silent World</term>
+   <term size="1">Sea-Thrift</term>
+   <term size="1">Shadow of the Holy Week<actualTerm>The Shadow of the Holy Week</actualTerm>
+   </term>
+   <term size="1">Shelley’s View of Nature Contrasted With Darwin’s</term>
+   <term size="1">Signa, Volume 1</term>
+   <term size="1">Signa, Volume 2</term>
+   <term size="1">Signa, Volume 3</term>
+   <term size="1">Social Purity</term>
+   <term size="1">Some Thoughts on the Present Aspect of the Crusade Against the State Regulation of Vice</term>
+   <term size="1">Songs and Other Verses</term>
+   <term size="1">Songs and Sonnets</term>
+   <term size="1">Songs of Love and Empire</term>
+   <term size="1">Sons of the Soil<actualTerm>The Sons of the Soil</actualTerm>
+   </term>
+   <term size="1">Soul of Lilith, Volume 1<actualTerm>The Soul of Lilith, Volume 1</actualTerm>
+   </term>
+   <term size="1">Soul of Lilith, Volume 2<actualTerm>The Soul of Lilith, Volume 2</actualTerm>
+   </term>
+   <term size="1">Soul of Lilith, Volume 3<actualTerm>The Soul of Lilith, Volume 3</actualTerm>
+   </term>
+   <term size="1">Stories, Dreams and Allegories</term>
+   <term size="1">Story of a Modern Woman<actualTerm>The Story of a Modern Woman</actualTerm>
+   </term>
+   <term size="1">Story of an African Farm, Volume 1<actualTerm>The Story of an African Farm, Volume 1</actualTerm>
+   </term>
+   <term size="1">Story of an African Farm, Volume 2<actualTerm>The Story of an African Farm, Volume 2</actualTerm>
+   </term>
+   <term size="1">Story of Bessie Costrell<actualTerm>The Story of Bessie Costrell</actualTerm>
+   </term>
+   <term size="1">Story of the Amulet<actualTerm>The Story of the Amulet</actualTerm>
+   </term>
+   <term size="1">Story of the Treasure Seekers<actualTerm>The Story of the Treasure Seekers</actualTerm>
+   </term>
+   <term size="1">Tarantella, Volume 1</term>
+   <term size="1">Tarantella, Volume 2</term>
+   <term size="1">Test of the Truth<actualTerm>A Test of the Truth</actualTerm>
+   </term>
+   <term size="1">These Little Ones</term>
+   <term size="1">Treasure of Heaven<actualTerm>The Treasure of Heaven</actualTerm>
+   </term>
+   <term size="1">Trooper Peter Halket of Mashonaland</term>
+   <term size="1">True History of Joshua Davidson<actualTerm>The True History of Joshua Davidson</actualTerm>
+   </term>
+   <term size="1">Truth Before Everything</term>
+   <term size="1">Tutor’s Ward, Volume 1<actualTerm>The Tutor’s Ward, Volume 1</actualTerm>
+   </term>
+   <term size="1">Tutor’s Ward, Volume 2<actualTerm>The Tutor’s Ward, Volume 2</actualTerm>
+   </term>
+   <term size="1">Undine</term>
+   <term size="1">Undying One and Other Poems<actualTerm>The Undying One and Other Poems</actualTerm>
+   </term>
+   <term size="1">Vanitas</term>
+   <term size="1">Village Commune, Volume 1<actualTerm>A Village Commune, Volume 1</actualTerm>
+   </term>
+   <term size="1">Village Commune, Volume 2<actualTerm>A Village Commune, Volume 2</actualTerm>
+   </term>
+   <term size="1">Vivisection in America</term>
+   <term size="1">Voice From the Factories<actualTerm>A Voice From the Factories</actualTerm>
+   </term>
+   <term size="1">Votes for Women</term>
+   <term size="1">Why I Ams<actualTerm>The Why I Ams</actualTerm>
+   </term>
+   <term size="1">Why Paul Ferroll Killed His Wife</term>
+   <term size="1">Why Women Desire the Franchise</term>
+   <term size="1">Woman Sold<actualTerm>A Woman Sold</actualTerm>
+   </term>
+   <term size="1">Woman Who Didn't<actualTerm>The Woman Who Didn't</actualTerm>
+   </term>
+   <term size="1">Woman’s Thoughts About Women<actualTerm>A Woman’s Thoughts About Women</actualTerm>
+   </term>
+   <term size="1">Women of England<actualTerm>The Women of England</actualTerm>
+   </term>
+   <term size="1">Wouldbegoods<actualTerm>The Wouldbegoods</actualTerm>
+   </term>
+   <term size="1">Xantippe and Other Verse</term>
+   <term size="1">Year After Year</term>
+   <term size="1">Young Gardeners’ Kalendar<actualTerm>The Young Gardeners’ Kalendar</actualTerm>
+   </term>
+</list>

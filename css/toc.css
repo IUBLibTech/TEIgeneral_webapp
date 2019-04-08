@@ -1,0 +1,118 @@
+/* dynaXML TOC stylesheet */
+
+ul.tocList {
+	padding-left: 5px;
+	list-style-type: none;
+	font-size: smaller;
+	margin-top: 0;
+}
+
+ul.tocList li {
+	margin: 0;
+	padding: 5px 0 0 0;
+}
+
+div.toc {
+   margin: 10px 0 0 5px;
+}
+
+table.title {
+   font-weight: bold;
+}
+
+.toc-nav {
+	margin-top: 10px;
+	overflow: auto;
+/*	margin-bottom: 40px; */
+}
+
+.toc-prev {
+	float: left;
+}
+
+.toc-next {
+	float: right;
+}
+
+
+table.toc-line {
+	width: 95%;
+	border: none;
+	padding: 0px;
+	margin: 0px;
+}
+
+
+.toc table .l1 {
+}
+
+td.hits {
+   text-align: right;
+   vertical-align: top;
+   border: none;
+   padding: 0px;
+}
+
+td.expand {
+   width: 15px;
+   text-align: center;
+	 vertical-align: top;
+	 border: none;
+	 padding: 0px;
+}
+
+td.expand img {
+	margin-top: 3px;
+	border: none;
+	padding: 0px;
+}
+
+td.divnum {
+   text-align: right;
+   vertical-align: top;
+   width: 30px;
+   border: none;
+   padding: 0px;
+}
+
+td.head {
+   vertical-align: top;
+   border: none;
+   padding: 0px;
+
+}
+
+.hit-count {
+   color: #6B4496;
+   font-weight: bold;
+}
+
+.toc-hi {
+   background-color: #FFCC66;
+   font-weight: bold;
+}
+
+div.hitSummary {
+
+}
+
+div.expandAll {
+}
+
+div.l0, div.l1 {
+   font-size: 90%;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+div.l2 {
+   font-size: 85%;
+   margin-top: 0;
+   margin-bottom: 0;
+}
+
+div.l3, div.l4, div.l5, div.l6, div.l7 {
+   font-size: 85%;
+   margin-top: 0;
+   margin-bottom: 0;
+}

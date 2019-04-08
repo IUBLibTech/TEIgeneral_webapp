@@ -1,0 +1,2627 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.tei-c.org/ns/1.0
+    http://www.dlib.indiana.edu/lib/xml/TEIgeneral/TEIgeneral.xsd">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <table xml:id="chronoTable">
+                <row role="label">
+                    <cell role="label">Date</cell>
+                    <cell role="label">Author History</cell>
+                    <cell role="label">Publication History</cell>
+                    <cell role="label">Historical Context</cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df801" n="1801">
+                        <date when="1801">1801</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Caroline Wigley Clive<date from="1801" to="1873"/> is
+                                    born</label>. She dies in 1873.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df802" n="1802">
+                        <date when="1802">1802</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Harriet Martineau<date from="1802" to="1876"/> is
+                                    born</label>. A prominent reformer, she calls for equality
+                                between the sexes, for the abolition of slavery, and for education
+                                reform. She dies in 1876.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df808" n="1808">
+                        <date when="1808">1808</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Caroline Sheridan Norton<date from="1808" to="1877"/> is
+                                    born</label>. Her efforts are largely responsible for the
+                                passage of the Infant Custody Bill, which passes in 1839. She dies
+                                in 1877.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df812" n="1812">
+                        <date when="1812">1812</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Sarah Stickney Ellis<date from="1812" to="1872"/> is
+                                    born</label>. She dies in 1872. </item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df821" n="1821">
+                        <date when="1821">1821</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Felicia Skene<date from="1821" to="1899"/> is born</label>.
+                                A native of Scotland; writer, poet, and advocate for prison reform.
+                                She dies in 1899.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df822" n="1822">
+                        <date when="1822">1822</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Frances Power Cobbe<date from="1822" to="1904"/> is
+                                    born</label>. Journalist, philanthropist, and activist for
+                                women's rights and animal rights. She dies in 1904.</item>
+                            <item><label>Eliza Lynn Linton<date from="1822" to="1898"/> is
+                                    born</label>. Writes on social customs and gender issues. One of
+                                the earliest professional woman journalists. She dies in
+                                1898.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+
+                <row role="data">
+                    <cell role="data" xml:id="df823" n="1823">
+                        <date when="1823">1823</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Charlotte Mary Yonge<date from="1823" to="1901"/> is
+                                    born</label>. A prolific novelist, yet most of her works are out
+                                of print. She dies in 1901.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+
+                <row role="data">
+                    <cell role="data" xml:id="df826" n="1826">
+                        <date when="1826">1826</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Dinah Maria Mulock Craik<date from="1826" to="1887"/> is
+                                    born</label>. Innovative author of books for both children and
+                                adults. She dies in 1887.</item>
+                            <item><label>Lady Jane Wilde<date from="1826" to="1896"/> is
+                                    born</label>. A poet, feminist, and Irish folklorist. Mother of
+                                Oscar Wilde. She dies in 1896.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df827" n="1827">
+                        <date when="1827">1827</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Eliza Keary<date from="1827" to="1918"/> is born</label>.
+                                She dies in 1918.</item>
+                            <item><label>Barbara Leigh Smith Bodichon<date from="1827" to="1891"/>
+                                    is born</label>. She dies in 1891.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df828" n="1828">
+                        <date when="1828">1828</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Josephine Elizabeth Butler<date from="1828" to="1906"/> is
+                                    born</label>. Activist for the poor and for women's rights. She
+                                dies in 1906.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df829" n="1829">
+                        <date when="1829">1829</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Bessie Rayner Belloc<date from="1829" to="1925"/> is
+                                    born</label>. Poet, activist, feminist, journalist; helps
+                                establish the English Woman's Journal. She dies in 1925.</item>
+                            <item><label>Catherine Mumford Booth<date from="1829" to="1890"/> is
+                                    born</label>. Wife of William Booth, founder of the Salvation
+                                Army. Known as 'Mother of the Army'. She dies in 1890.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df830" n="1830">
+                        <date when="1830">1830</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>
+                                <bibl><author>Norton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7186"
+                                            >The Undying One and Other Poems</ref></title>.</bibl>
+                            </item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>King George IV dies</item>
+                            <item>Lord Grey succeeds the Duke of Wellington as Prime Minister</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df831" n="1831">
+                        <date when="1831">1831</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Isabella L. Bird<date from="1831" to="1904"/> is
+                                    born</label>. The most famous of the 'lady travelers' of the
+                                Victorian Era. She dies in 1904.</item>
+                            <item><label>Helen Taylor<date from="1831" to="1907"/> is born</label>.
+                                She dies in 1907.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df832" n="1832">
+                        <date when="1832">1832</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Great Reform Act passed (excluded women from voting)</item>
+                            <item>Cholera epidemic</item>
+                            <item>Friendly Society of Agricultural Labourers founded (Tolpuddle
+                                Martyrs)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df833" n="1833">
+                        <date when="1833">1833</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Abolition of slavery in British colonies</item>
+                            <item>Factories Act passed (child labor regulation)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df834" n="1834">
+                        <date when="1834">1834</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>William IV dismisses the Whig Government</label>; Sir Robert Peel becomes Prime Minister, taking over for Lord Melbourne</item>
+                            <item>Fox Talbot produces photographs</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df835" n="1835">
+                        <date when="1835">1835</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Lord Melbourne is re-elected</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df836" n="1836">
+                        <date when="1836">1836</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Norton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7191"
+                                            >A Voice From the Factories</ref></title>.</bibl>
+                            </item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>University of London founded</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df837" n="1837">
+                        <date when="1837">1837</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>M. E. Braddon<date from="1837" to="1915"/> is born</label>.
+                                Famed for her novels written in the 'sensation' genre. She dies in
+                                1915.</item>
+                            <item><label>Augusta Webster<date from="1837" to="1894"/> is
+                                    born</label>. Writer of dramatic monologue, poetry, and prose.
+                                She dies in 1894.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Death of William IV</item>
+                            <item>Accession of Queen Victoria to the throne</item>
+                            <item>National Gallery opens</item>
+                            <item><bibl><author>Dickens</author>: <title level="m">Oliver
+                                        Twist</title></bibl> published in serial form (book form in
+                                1838)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df838" n="1838">
+                        <date when="1838">1838</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><title level="m">People’s Charter</title></bibl> published
+                                by the Chartists</item>
+                            <item>Daguerre perfects the Daguerrotype</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df839" n="1839">
+                        <date when="1839">1839</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Ouida<date from="1839" to="1908"/> is born (aka Marie
+                                    Louise de la Ramée)</label> An eccentric personality, her
+                                exploits often have received more attention than her works. She dies
+                                in 1908.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Ellis</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7198"
+                                            >The Women of England</ref></title>.</bibl></item>
+                            <item><bibl><author>Norton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7126"
+                                            >A Plain Letter to the Lord Chancellor on the Infant
+                                            Custody Bill</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>First Opium War (1839-1842)</item>
+                            <item>The Newport Rising</item>
+                            <item>Fox Talbot introduces photographic paper</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df840" n="1840">
+                        <date when="1840">1840</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Rhoda Broughton<date from="1840" to="1920"/> is
+                                    born</label>. She shocks Victorian sensibilities with her
+                                stories of women in love affairs. She dies in 1920.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Ellis</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7162"
+                                            >The Sons of the Soil</ref></title>.</bibl></item>
+                            <item><bibl><author>Norton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7052"
+                                            >The Dream and Other Poems</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Queen Victoria marries Prince Albert</item>
+                            <item>Houses of Parliament Reconstruction</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df841" n="1841">
+                        <date when="1841">1841</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Mathilde Blind<date from="1841" to="1896"/> is
+                                born</label>. She dies in 1896.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Clive</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7117"
+                                            >Nine Poems</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Sir Robert Peel becomes Prime Minister (1841-1846)</item>
+                            <item>London Library is founded</item>
+                            <item>Fox Talbot’s photographic process is patented</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df842" n="1842">
+                        <date when="1842">1842</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Clive</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7077"
+                                            >I Watched the Heavens</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>New Poor Law enacted</item>
+                            <item><label>Mines Act passed</label> (boys under ten and women could
+                                not work in underground mines)</item>
+                            <item>Young England group founded</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df843" n="1843">
+                        <date when="1843">1843</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Dickens</author>: <title level="m">A Christmas
+                                        Carol</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df844" n="1844">
+                        <date when="1844">1844</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Ada Cambridge<date from="1844" to="1926"/> is born</label>.
+                                One of the best-known Australian writers of her time. She dies in
+                                1926.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Factories Act passed</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df845" n="1845">
+                        <date when="1845">1845</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Louisa Sarah Bevington<date from="1845" to="1895"/> is
+                                    born</label>. Poet, essayist, activist. Recognized as an
+                                anarchist poet. She dies in 1895.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Famine in Ireland (1845-1849)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df846" n="1846">
+                        <date when="1846">1846</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Norton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7034"
+                                            >The Child of the Islands</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Sugar Duties Act</item>
+                            <item>Importation Act (repealed the Corn Laws)</item>
+                            <item>Lord John Russell becomes Prime Minister</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df847" n="1847">
+                        <date when="1847">1847</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Alice Meynell<date from="1847" to="1922"/> is born</label>.
+                                Poet, essayist, editor and critic. A prolific writer, she publishes
+                                works on many topics in many forms: essays, poetry, translations,
+                                anthologies. She dies in 1922.</item>
+                            <item><label>Flora Annie Webster Steel<date from="1847" to="1929"/> is
+                                    born</label>. She dies in 1929.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Clive</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7137"
+                                            >The Queen's Ball</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Factory Act (Ten Hours Act) passed</item>
+                            <item>Cholera epidemic (1847-1848)</item>
+                            <item><bibl><author>Charlotte Brontë</author>: <title level="m">Jane
+                                        Eyre</title>.</bibl></item>
+                            <item><bibl><author>Emily Brontë</author>: <title level="m">Wuthering
+                                        Heights</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df848" n="1848">
+                        <date when="1848">1848</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Norton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7110"
+                                            >Letters to the Mob</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Public Health Act passed</item>
+                            <item>Pre-Raphaelite Brotherhood founded</item>
+                            <item><bibl><author>Marx</author> and <author>Engels</author>: <title
+                                        level="m">The Communist Manifesto</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df849" n="1849">
+                        <date when="1849">1849</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Skene: The Inheritance of Evil...</label><bibl><author>Skene</author>: <title
+                                        level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7062"
+                                            >The Inheritance of Evil, Or, the Consequence of
+                                            Marrying a Deceased Wife’s
+                                Sister</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df850" n="1850">
+                        <date when="1850">1850</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Craik</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7119"
+                                            >Olive, Volume 1</ref></title>.</bibl></item>
+                            <item><bibl><author>Craik</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7120"
+                                            >Olive, Volume 2</ref></title>.</bibl></item>
+                            <item><bibl><author>Craik</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7121"
+                                            >Olive, Volume 3</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Public Libraries Act passed</item>
+                            <item>Pope Pius IX restores Roman Catholic hierarchy in England</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df851" n="1851">
+                        <date when="1851">1851</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Mrs. Humphry Ward<date from="1851" to="1920"/> is born (née
+                                    Mary Augusta Arnold)</label>. A prolific writer who writes
+                                novels, plays, and journal articles, among other works. She dies in
+                                1920.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Skene</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7183"
+                                            >The Tutor’s Ward, Volume 1</ref></title>.</bibl></item>
+                            <item><bibl><author>Skene</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7184"
+                                            >The Tutor’s Ward, Volume 2</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Sheffield Female Political Association founded</item>
+                            <item>The Great Exhibition (the first World’s Fair)</item>
+                            <item>First telegraph cable under the English Channel</item>
+                            <item>Singer invents first practical sewing machine</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df852" n="1852">
+                        <date when="1852">1852</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Lucas Malet<date from="1852" to="1931"/> is born (aka Mary
+                                    St. Leger Kingsley Harrison)</label>. Her novels cause
+                                controversy in their frank portrayals of sexuality and religion. She
+                                dies in 1931.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Belloc</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7124"
+                                            >Poems</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>The Victoria and Albert Museum founded</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df853" n="1853">
+                        <date when="1853">1853</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Clive</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7112"
+                                            >The Morlas</ref></title>.</bibl></item>
+                            <item><bibl><author>Craik</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7020"
+                                            >Avillion and Other Tales, Volume
+                                    1</ref></title>.</bibl></item>
+                            <item><bibl><author>Yonge</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7078"
+                                            >The Heir of Redclyffe, Volume
+                                1</ref></title>.</bibl></item>
+                            <item><bibl><author>Yonge</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7079"
+                                            >Henrietta's Wish</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df854" n="1854">
+                        <date when="1854">1854</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Mona Caird<date from="1854" to="1932"/> is born</label>.
+                                Part of the New Woman writers, she achieves notoriety due to her
+                                writings on marriage in Victorian times. She dies in 1932.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Bodichon: A Brief Summary...</label><bibl><author>Bodichon</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7030"
+                                            >A Brief Summary in Plain Language of the Most Important
+                                            Laws Concerning Women</ref></title>.</bibl></item>
+                            <item><bibl><author>Norton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7061"
+                                            >English Laws for Women in the Nineteenth
+                                        Century</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Crimean War (1854-1856)</item>
+                            <item>British Medical Association founded</item>
+                            <item>Working Men’s College founded</item>
+                            <item><bibl><author>Dickens</author>: <title level="m">Hard
+                                        Times</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <!-- SB: The following Levy publication was coded as 'nodate' to see how items without a date 
+                    showed on the timeline, but it didn't populate on the timeline:
+                    <cell role="data" xml:id="dfnodate" n="nodate">
+                -->
+                <row role="data">
+                    <cell role="data" xml:id="df855" n="1855">
+                        <date when="1855">1855</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Marie Corelli<date from="1855" to="1924"/> is born</label>.
+                                A best-selling author worldwide for decades. She dies in
+                                1924.</item>
+                            <item><label>Ella Hepworth Dixon<date from="1855" to="1932"/> is born
+                                    (aka Margaret Wynman)</label>. Author, editor, playwright, and
+                                activist against the oppression of women. She dies in 1932.</item>
+                            <item><label>Olive Schreiner<date from="1855" to="1920"/> is
+                                    born</label>. A South African native, she writes on religion,
+                                racism, and sexism. She dies in 1920.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Norton: A Letter to the Queen...</label><bibl><author>Norton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7092"
+                                            >A Letter to the Queen on Lord Chancellor Cranworth’s
+                                            Marriage and Divorce Bill</ref></title>.</bibl></item>
+                            <item><bibl><author>Levy</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7093"
+                                            >A Ballad of Religion and
+                                Marriage</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Lord Palmerston becomes Prime Minister (1855-1858)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df856" n="1856">
+                        <date when="1856">1856</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Vernon Lee<date from="1856" to="1935"/> is born</label>.
+                                Writes works on travel, fantasy, and art history, among other
+                                topics. She dies in 1935.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Clive</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7064"
+                                            >Paul Ferroll</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Second Opium War (1856-1860)</item>
+                            <item>Bessemer’s blast furnace permits mass production of steel</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df857" n="1857">
+                        <date when="1857">1857</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Indian Rebellion (Indian Mutiny)</item>
+                            <item>Matrimonial Causes Act passed (Divorce Act)</item>
+                            <item>National Portrait Gallery founded</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df858" n="1858">
+                        <date when="1858">1858</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Constance Naden<date from="1858" to="1889"/> is
+                                    born</label>. She dies in 1889.</item>
+                            <item><label>Edith Nesbit<date from="1858" to="1924"/> is born</label>.
+                                One of the most prolific fantasy writers of her time. She dies in
+                                1924.</item>
+                            <item><label>Dollie Radford<date from="1858" to="1920"/> is
+                                born</label>. Feminist, poet, novelist, and short story writer. She
+                                dies in 1920.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Clive</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7201"
+                                            >Year After Year</ref></title>.</bibl></item>
+                            <item><bibl><author>Craik</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7175"
+                                            >A Woman’s Thoughts About
+                                Women</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Fenian Brotherhood founded</item>
+                            <item>Jews admitted to Parliament</item>
+                            <item>First Trans-Atlantic telegraph cable completed</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df859" n="1859">
+                        <date when="1859">1859</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Mary Cholmondeley<date from="1859" to="1925"/> is
+                                    born</label>. She dies in 1925.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Booth</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7105"
+                                            >Female Ministry</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>National Portrait Gallery opens</item>
+                            <item>Palmerston becomes Prime Minister again (1859-1865)</item>
+                            <item><bibl><author>Darwin</author>: <title>On the Origin of
+                                        Species</title>.</bibl></item>
+                            <item><bibl><author>Mill</author>: <title>On
+                                Liberty</title>.</bibl></item>
+                            <item><bibl><author>Eliot</author>: <title>Adam
+                                Bede</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df860" n="1860">
+                        <date when="1860">1860</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Clive</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7194"
+                                            >Why Paul Ferroll Killed His
+                                Wife</ref></title>.</bibl></item>
+                            <item><bibl><author>Webster</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7027"
+                                            >Blanche Lisle and Other
+                                Poems</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>First woman enrolled at Royal Academy schools</item>
+                            <item>Florence Nightingale publishes first definitive nursing
+                                textbook</item>
+                            <item><label>Nightengale: Suggestions...</label><bibl><author>Nightingale</author>: <title>Suggestions for Thought
+                                to Searchers after Religious Truth</title>.</bibl> (printed
+                                privately, an early feminist work of importance)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df861" n="1861">
+                        <date when="1861">1861</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Louise Imogen Guiney<date from="1861" to="1920"/> is
+                                    born</label>. American poet and essayist. She dies in
+                                1920.</item>
+                            <item><label>Amy Levy<date from="1861" to="1889"/> is
+                                    born</label><graphic
+                                    url="http://webapp1.dlib.indiana.edu/TEIgeneral/images/amyLevy.png"/>.
+                                Only writes for ten years, but is prolific within that time. Commits
+                                suicide at the age of 27.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Booth</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7063"
+                                            >Female Teaching</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Prince Albert dies</item>
+                            <item>Abraham Lincoln becomes United States President (1861-1865)</item>
+                            <item>American Civil War (1861-1865)</item>
+                            <item>Emancipation of serfs in Russia</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df862" n="1862">
+                        <date when="1862">1862</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Elizabeth Robins<date from="1862" to="1952"/> is
+                                    born</label>. Novelist, playwright, actress. She dies in
+                                1952.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Braddon</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7086"
+                                            >Lady Audley's Secret, Volume
+                                1</ref></title>.</bibl></item>
+                            <item><bibl><author>Braddon</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7087"
+                                            >Lady Audley's Secret, Volume
+                                2</ref></title>.</bibl></item>
+                            <item><bibl><author>Braddon</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7088"
+                                            >Lady Audley's Secret, Volume
+                                3</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df863" n="1863">
+                        <date when="1863">1863</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Belloc</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7022"
+                                            >Ballads and Songs</ref></title>.</bibl></item>
+                            <item><bibl><author>Cobbe</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7141"
+                                            >The Red Flag in John Bull’s
+                                Eyes</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Red Cross founded</item>
+                            <item>First underground railway opens in London</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df864" n="1864">
+                        <date when="1864">1864</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Banker's Daughter (aka M. S. Welsman)</label>, birth and
+                                death dates unknown, publishes a guide to aid women in gaining
+                                financial acumen. </item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Banker's Daughter: Guide to the Unprotected...</label><bibl><author>Banker's Daughter</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7187"
+                                            >Guide to the Unprotected in Every-day Matters Relating
+                                            to Property and Income</ref></title>.</bibl></item>
+                            <item><bibl><author>Clive</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7070"
+                                            >John Greswold, Volume 1</ref></title>.</bibl></item>
+                            <item><bibl><author>Clive</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7071"
+                                            >John Greswold, Volume 2</ref></title>.</bibl></item>
+                            <item><bibl><author>Webster</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7094"
+                                            >Lilian Gray: a Poem</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Contagious Disease Act passed</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df865" n="1865">
+                        <date when="1865">1865</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Skene</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7159"
+                                            >Penitentiaries and
+                                Reformatories</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Slavery formally abolished in the United States</item>
+                            <item>John Stuart Mill elected MP on supporting women’s suffrage</item>
+                            <item>Women’s Suffrage Committee formed in Manchester</item>
+                            <item>Antiseptic surgery established by Lister</item>
+                            <item><label>Salvation Army founded</label> (initially named the East London Christian
+                                Mission) by William Booth</item>
+                            <item><bibl><author>Carroll</author>: <title>Alice in
+                                    Wonderland</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df866" n="1866">
+                        <date when="1866">1866</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Bodichon</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7118"
+                                            >Objections to the Enfranchisement of Women
+                                            Considered</ref></title>.</bibl></item>
+                            <item><bibl><author>Craik</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7043"
+                                            >Poems</ref></title>.</bibl></item>
+                            <item><bibl><author>Norton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7089"
+                                            >The Lady of La Garaye</ref></title>.</bibl></item>
+                            <item><bibl><author>Webster</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7051"
+                                            >Dramatic Studies</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Lord Derby becomes Prime Minister (1866-1868)</item>
+                            <item>Hyde Park riots</item>
+                            <item><bibl><author>Swinburne</author>: <title>Poems and
+                                    Ballads</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df867" n="1867">
+                        <date when="1867">1867</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Blind</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7090"
+                                            >Poems by Claude Lake</ref></title>.</bibl></item>
+                            <item><bibl><author>Broughton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7038"
+                                            >Cometh Up as a Flower, Volume
+                                1</ref></title>.</bibl></item>
+                            <item><bibl><author>Broughton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7039"
+                                            >Cometh Up as a Flower, Volume
+                                2</ref></title>.</bibl></item>
+                            <item><bibl><author>Taylor</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7170"
+                                            >The Claim of Englishwomen to the Suffrage
+                                            Constitutionally Considered</ref></title>.</bibl></item>
+                            <item><bibl><author>Webster</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7196"
+                                            >A Woman Sold</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Second Reform Act passed</item>
+                            <item>National Society for Women’s Suffrage forms in the UK</item>
+                            <item>Fenian rising in Ireland</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df868" n="1868">
+                        <date when="1868">1868</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Victoria Cross<date from="1868" to="1952"/> is
+                                born</label>. Her novels contain candid portayals of sexuality and
+                                psychology. She dies in 1952.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Butler</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7056"
+                                            >The Education and Employment of
+                                    Women</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Benjamin Disraeli, after only a few months in office, defeated by
+                                Gladstone</label>. Gladstone becomes Prime Minister (1868-1874)</item>
+                            <item>First Annual Trades Union Congress held in Manchester</item>
+                            <item>Last public execution held</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df869" n="1869">
+                        <date when="1869">1869</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Cobbe</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7044"
+                                            >Criminals, Idiots, Women and
+                                    Minors</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Girton College founded (first residential women’s college in
+                                England)</item>
+                            <item>Suez Canal opens</item>
+                            <item><bibl><author>Mill</author>: <title>The Subjection of
+                                        Women</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df870" n="1870">
+                        <date when="1870">1870</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Cobbe</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7123"
+                                            >Our Policy: An Address to Women Concerning the
+                                            Suffrage</ref></title>.</bibl></item>
+                            <item><bibl><author>Webster</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7130"
+                                            >Portraits</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Franco-Prussian War (1870-1871)</item>
+                            <item>Elementary Education Act (Forster’s Education Act) passed</item>
+                            <item>First Married Women’s Property Act passed</item>
+                            <item>First School Board elections</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df871" n="1871">
+                        <date when="1871">1871</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Wilde</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7166"
+                                            >Poems</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Trade Union Act passed (legalized trade unions in UK for first
+                                time)</item>
+                            <item>Criminal Law Amendment Act passed</item>
+                            <item>Newnham College founded (second women’s college)</item>
+                            <item>Paris Commune (first workers government to assume power)</item>
+                            <item>Publication completed of Encyclopedia Britannica (began
+                                1768)</item>
+                            <item><bibl><author>Carroll</author>: <title>Through the
+                                        Looking-Glass</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df872" n="1872">
+                        <date when="1872">1872</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Sarah Stickney Ellis<date when="1872"/>
+                                dies</label>.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Bodichon</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7059"
+                                            >Reasons For and Against the Enfranchisement of
+                                            Women</ref></title>.</bibl></item>
+                            <item><bibl><author>Clive</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7035"
+                                            >Poems</ref></title>.</bibl></item>
+                            <item><bibl><author>Craik</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7031"
+                                            >The Adventures of a
+                                Brownie</ref></title>.</bibl></item>
+                            <item><bibl><author>Linton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7083"
+                                            >The True History of Joshua
+                                    Davidson</ref></title>.</bibl></item>
+                            <item><bibl><author>Ouida</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7049"
+                                            >A Dog of Flanders and Other
+                                    Stories</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Ballot Act passed</item>
+                            <item><bibl><author>Eliot</author>:
+                                <title>Middlemarch</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df873" n="1873">
+                        <date when="1873">1873</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Caroline Wigley Clive<date when="1873"/>
+                                dies.</label></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>The Long Depression begins in Britain (1873-1896)</item>
+                            <item>Public Health Act</item>
+                            <item>Christopher Sholes invents the Remington typewriter</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df874" n="1874">
+                        <date when="1874">1874</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Butler: Some Thoughts...</label><bibl><author>Butler</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7174"
+                                            >Some Thoughts on the Present Aspect of the Crusade
+                                            Against the State Regulation of
+                                    Vice</ref></title>.</bibl></item>
+                            <item><bibl><author>Keary, E.</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7151"
+                                            >Little Seal-skin</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Disraeli becomes Prime Minister (1874-1880)</item>
+                            <item>Impressionists’ first exhibition in Paris</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df875" n="1875">
+                        <date when="1875">1875</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Bird</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7074"
+                                            >The Hawaiian Archipelago</ref></title>.</bibl></item>
+                            <item><bibl><author>Cambridge</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7099"
+                                            >The Manor House and Other
+                                Poems</ref></title>.</bibl></item>
+                            <item><bibl><author>Craik</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7135"
+                                            >The Little Lame Prince and His Travelling
+                                        Cloak</ref></title>.</bibl></item>
+                            <item><bibl><author>Ouida</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7155"
+                                            >Signa, Volume 1</ref></title>.</bibl></item>
+                            <item><bibl><author>Ouida</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7156"
+                                            >Signa, Volume 2</ref></title>.</bibl></item>
+                            <item><bibl><author>Ouida</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7157"
+                                            >Signa, Volume 3</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Public Health Act</item>
+                            <item>Sanitary Authorities established</item>
+                            <item>Conspiracy and Protection of Property Act (peaceful picketing
+                                allowed)</item>
+                            <item>Employers and Workmen Act passed</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df876" n="1876">
+                        <date when="1876">1876</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Harriet Martineau<date when="1876"/> dies.</label> A
+                                prominent reformer, she calls for equality between the sexes, for
+                                the abolition of slavery, and for education reform.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Queen Victoria becomes Empress of India</item>
+                            <item>Alexander Graham Bell patents the telephone</item>
+                            <item>Bulgarian atrocities</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df877" n="1877">
+                        <date when="1877">1877</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Caroline Sheridan Norton<date when="1877"/> dies.</label>
+                                Her efforts are largely responsible for the passage of the Infant
+                                Custody Bill, which passes in 1839.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Cobbe</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7037"
+                                            >Why Women Desire the
+                                Franchise</ref></title>.</bibl></item>
+                            <item><bibl><author>Martineau</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7103"
+                                            >Harriet Martineau's Autobiography, Volume
+                                        1</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Edison invents the phonograph</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df878" n="1878">
+                        <date when="1878">1878</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>The Factory and Workshop Act 1878</label> (protecting women and children
+                                from exploitation</item>
+                            <item>London University admits women on equal terms</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df879" n="1879">
+                        <date when="1879">1879</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Bevington</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7085"
+                                            >Key-notes</ref></title>.</bibl></item>
+                            <item><bibl><author>Booth</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7134"
+                                            >Papers on Practical
+                                Religion</ref></title>.</bibl></item>
+                            <item><bibl><author>Butler</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7160"
+                                            >Social Purity</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Electric street lighting begins in London</item>
+                            <item>Edison invents the electric light bulb</item>
+                            <item>Anglo-Zulu War</item>
+                            <item>Irish Land League founded</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df880" n="1880">
+                        <date when="1880">1880</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Booth</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7010"
+                                            >Papers on Aggressive
+                                Christianity</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Gladstone becomes Prime Minister again (1880-1885)</item>
+                            <item>First Boer War (1880-1881)</item>
+                            <item>Bradlaugh dispute over right of MP to affirm</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df881" n="1881">
+                        <date when="1881">1881</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Bird</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7146"
+                                            >A Lady's Life in the Rocky
+                                    Mountains</ref></title>.</bibl></item>
+                            <item><bibl><author>Blind</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7136"
+                                            >The Prophecy of Saint Oran and Other
+                                        Poems</ref></title>.</bibl></item>
+                            <item><bibl><author>Levy</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7200"
+                                            >Xantippe and Other Verse</ref></title>.</bibl></item>
+                            <item><bibl><author>Ouida</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7041"
+                                            >A Village Commune, Volume
+                                1</ref></title>.</bibl></item>
+                            <item><bibl><author>Ouida</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7042"
+                                            >A Village Commune, Volume
+                                2</ref></title>.</bibl></item>
+                            <item><bibl><author>Webster</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7029"
+                                            >A Book of Rhyme</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Natural History Museum opens to the public</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df882" n="1882">
+                        <date when="1882">1882</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Bevington</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7024"
+                                            >Poems, Lyrics, and Sonnets</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Royal Courts of Justice opened by Queen Victoria</item>
+                            <item>Second Married Women’s Property Act passed</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df883" n="1883">
+                        <date when="1883">1883</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Blind</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7067"
+                                            >George Eliot</ref></title>.</bibl></item>
+                            <item><bibl><author>Ouida</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7066"
+                                            >Folle-Farine</ref></title>.</bibl></item>
+                            <item><bibl><author>Schreiner</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7167"
+                                            >The Story of an African Farm, Volume
+                                    1</ref></title>.</bibl></item>
+                            <item><bibl><author>Schreiner</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7168"
+                                            >The Story of an African Farm, Volume
+                                    2</ref></title>.</bibl></item>
+                            <item><bibl><author>Skene</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7153"
+                                            >The Shadow of the Holy
+                                Week</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Expansion of Married Women’s Property Act</item>
+                            <item>Royal College of Music founded</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df884" n="1884">
+                        <date when="1884">1884</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Booth</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7082"
+                                            >The Iniquity of State Regulated
+                                    Vice</ref></title>.</bibl></item>
+                            <item><bibl><author>Lee</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7107"
+                                            >Miss Brown, Volume 1</ref></title>.</bibl></item>
+                            <item><bibl><author>Lee</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7108"
+                                            >Miss Brown, Volume 2</ref></title>.</bibl></item>
+                            <item><bibl><author>Lee</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7109"
+                                            >Miss Brown, Volume 3</ref></title>.</bibl></item>
+                            <item><bibl><author>Webster</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7045"
+                                            >Daffodil and the
+                                Croäxaxicans</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Representation of the People Act passed (Third Reform Act)</item>
+                            <item>Arnold Toynbee coins the term ‘Industrial Revolution’</item>
+                            <item>Society of Authors founded in Britain</item>
+                            <item>Socialist League founded in Britain</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df885" n="1885">
+                        <date when="1885">1885</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Blind</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7180"
+                                            >Tarantella, Volume 1</ref></title>.</bibl></item>
+                            <item><bibl><author>Blind</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7181"
+                                            >Tarantella, Volume 2</ref></title>.</bibl></item>
+                            <item><bibl><author>Linton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7017"
+                                            >The Autobiography of Christopher Kirkland, Volume
+                                            1</ref></title>.</bibl></item>
+                            <item><bibl><author>Linton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7018"
+                                            >The Autobiography of Christopher Kirkland, Volume
+                                            2</ref></title>.</bibl></item>
+                            <item><bibl><author>Linton</author>: <title level="m"><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7019"
+                                            >The Autobiography of Christopher Kirkland, Volume
+                                            3</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Housing of the Working Classes Act passed</item>
+                            <item>Redistribution of Seats Act passed</item>
+                            <item>Lord Salisbury becomes Prime Minister (1885-1892)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df886" n="1886">
+                        <date when="1886">1886</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Blind</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7076"
+                                            >The Heather on Fire</ref></title>.</bibl></item>
+                            <item><bibl><author>Blind</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7154"
+                                            >Shelley's View of Nature Contrasted With
+                                        Darwin's</ref></title>.</bibl></item>
+                            <item><bibl><author>Corelli</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7147"
+                                            >A Romance of Two Worlds, Volume
+                                1</ref></title>.</bibl></item>
+                            <item><bibl><author>Corelli</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7148"
+                                            >A Romance of Two Worlds, Volume
+                                2</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7091"
+                                            >Lays and Legends</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Daimler patents high-speed internal combustion engine</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df887" n="1887">
+                        <date when="1887">1887</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Dinah Maria Mulock Craik<date when="1887"/> dies.</label>
+                                Innovative author of books for both children and adults.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Queen Victoria’s Golden Jubilee</item>
+                            <item>Bloody Sunday</item>
+                            <item><bibl><author>Doyle</author>: <title>A Study in
+                                    Scarlet</title>.</bibl> (first appearance of Sherlock
+                                Holmes)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df888" n="1888">
+                        <date when="1888">1888</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Booth</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7129"
+                                            >Popular Christianity</ref></title>.</bibl></item>
+                            <item><bibl><author>Butler</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7011"
+                                            >Mrs. Butler’s Appeal to the Women of
+                                        America</ref></title>.</bibl></item>
+                            <item><bibl><author>Butler</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7068"
+                                            >The New Godiva</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>London Match Girls’ Strike</item>
+                            <item>First Arts and Crafts Guild exhibition</item>
+                            <item>Hertz produces radio waves</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df889" n="1889">
+                        <date when="1889">1889</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Amy Levy<date when="1889"/> dies.</label>Only writes for
+                                ten years, but is prolific within that time. Commits suicide at the
+                                age of 27.</item>
+                            <item><label>Constance Naden<date when="1889"/> dies.</label></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Blind</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7015"
+                                            >The Ascent of Man</ref></title>.</bibl></item>
+                            <item><bibl><author>Levy</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7098"
+                                            >A London Plane-Tree and Other
+                                    Verse</ref></title>.</bibl></item>
+                            <item><bibl><author>Skene</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7158"
+                                            >Scenes from a Silent World</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Women's Franchise League founded</item>
+                            <item>London Dock Strike</item>
+                            <item>First Kodak camera using roll film manufactured</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df890" n="1890">
+                        <date when="1890">1890</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Catherine Mumford Booth<date when="1890"/> dies.</label>
+                                Wife of William Booth, founder of the Salvation Army. Known as
+                                'Mother of the Army'.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Bevington</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7040"
+                                            >Common-Sense Country</ref></title>.</bibl></item>
+                            <item><bibl><author>Cobbe</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7190"
+                                            >Vivisection in America</ref></title>.</bibl></item>
+                            <item><bibl><author>Lee</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7073"
+                                            >Hauntings</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Frazer</author>: <title>The Golden
+                                    Bough</title>.</bibl></item>
+                            <item><bibl><author>Booth</author>: <title>In Darkest
+                                    England</title>.</bibl></item>
+                            <item><bibl><author>Morris</author>: <title>News from
+                                    Nowhere</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df891" n="1891">
+                        <date when="1891">1891</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Barbara Leigh Smith Bodichon<date when="1891"/>
+                                    dies.</label></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Bevington</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7055"
+                                            >Dame Nature's Dumb Sermon</ref></title>.</bibl></item>
+                            <item><bibl><author>Blind</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7050"
+                                            >Dramas in Miniature</ref></title>.</bibl></item>
+                            <item><bibl><author>Levy</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7106"
+                                            >A Minor Poet and Other
+                                Verse</ref></title>.</bibl></item>
+                            <item><bibl><author>Radford</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7096"
+                                            >A Light Load</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Kelmscott Press founded by William Morris</item>
+                            <item>The Newcastle Programme passed (Liberal reforms)</item>
+                            <item>Elementary schooling made free for all children</item>
+                            <item><bibl><author>Wilde</author>: <title>Picture of Dorian
+                                        Gray</title>.</bibl></item>
+                            <item>New Zealand grants women voting rights (first country to do
+                                so)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df892" n="1892">
+                        <date when="1892">1892</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Corelli</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7163"
+                                            >The Soul of Lilith, Volume
+                                1</ref></title>.</bibl></item>
+                            <item><bibl><author>Corelli</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7164"
+                                            >The Soul of Lilith, Volume
+                                2</ref></title>.</bibl></item>
+                            <item><bibl><author>Corelli</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7165"
+                                            >The Soul of Lilith, Volume
+                                3</ref></title>.</bibl></item>
+                            <item><bibl><author>Lee</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7188"
+                                            >Vanitas</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Gladstone returns as Prime Minister (1892-1894)</item>
+                            <item>Rudolf Diesel invents the Diesel engine</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df893" n="1893">
+                        <date when="1893">1893</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Blind</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7028"
+                                            >Songs and Sonnets</ref></title>.</bibl></item>
+                            <item><bibl><author>Dixon</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7114"
+                                            >My Flirtations</ref></title>.</bibl></item>
+                            <item><bibl><author>Guiney</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7145"
+                                            >A Roadside Harp</ref></title>.</bibl></item>
+                            <item><bibl><author>Schreiner</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7053"
+                                            >Dream Life and Real Life</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Independent Labour party founded</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df894" n="1894">
+                        <date when="1894">1894</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Augusta Webster<date when="1894"/> dies.</label> Writer of
+                                dramatic monologue, poetry, and prose.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Bevington</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7195"
+                                            >The Why I Ams</ref></title>.</bibl></item>
+                            <item><bibl><author>Caird</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7047"
+                                            >The Daughters of Danaus</ref></title>.</bibl></item>
+                            <item><bibl><author>Dixon</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7169"
+                                            >The Story of a Modern
+                                Woman</ref></title>.</bibl></item>
+                            <item><bibl><author>Naden</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7115"
+                                            >The Complete Poetical Works of Constance
+                                        Naden</ref></title>.</bibl></item>
+                            <item><bibl><author>Steel</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7131"
+                                            >The Potter's Thumb, Volume
+                                1</ref></title>.</bibl></item>
+                            <item><bibl><author>Steel</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7132"
+                                            >The Potter's Thumb, Volume
+                                2</ref></title>.</bibl></item>
+                            <item><bibl><author>Steel</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7133"
+                                            >The Potter's Thumb, Volume
+                                3</ref></title>.</bibl></item>
+                            <item><bibl><author>Ward</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7101"
+                                            >Marcella, Volume 1</ref></title>.</bibl></item>
+                            <item><bibl><author>Ward</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7102"
+                                            >Marcella, Volume 2</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Wilde</author>:
+                                <title>Salome</title>.</bibl>(published in English)</item>
+                            <item>Lord Salisbury again becomes Prime Minister (1895-1902)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df895" n="1895">
+                        <date when="1895">1895</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Louisa Sarah Bevington<date when="1895"/> dies.</label>
+                                Poet, essayist, activist. Recognized as an anarchist poet.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Belloc</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7193"
+                                            >In a Walled Garden</ref></title>.</bibl></item>
+                            <item><bibl><author>Bevington</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7013"
+                                            >An Anarchist Manifesto</ref></title>.</bibl></item>
+                            <item><bibl><author>Bevington</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7048"
+                                            >Chiefly a Dialogue</ref></title>.</bibl></item>
+                            <item><bibl><author>Bevington</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7095"
+                                            >Liberty Lyrics</ref></title>.</bibl></item>
+                            <item><bibl><author>Blind</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7026"
+                                            >Birds of Passage</ref></title>.</bibl></item>
+                            <item><bibl><author>Caird</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7149"
+                                            >The Sanctuary of Mercy</ref></title>.</bibl></item>
+                            <item><bibl><author>Cross</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7197"
+                                            >The Woman Who Didn't</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7128"
+                                            >A Pomander of Verse</ref></title>.</bibl></item>
+                            <item><bibl><author>Radford</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7161"
+                                            >Songs and Other Verses</ref></title>.</bibl></item>
+                            <item><bibl><author>Ward</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7023"
+                                            >The Story of Bessie
+                                Costrell</ref></title>.</bibl></item>
+                            <item><bibl><author>Webster</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7113"
+                                            >Mother and Daughter</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Roentgen discovers X-rays</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df896" n="1896">
+                        <date when="1896">1896</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Mathilde Blind<date when="1896"/> dies.</label></item>
+                            <item><label>Lady Jane Wilde<date when="1896"/> dies.</label> Mother of
+                                Oscar Wilde, was a poet and feminist, and Irish folklorist.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Bevington</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7014"
+                                            >Anarchism and Violence</ref></title>.</bibl></item>
+                            <item><bibl><author>Corelli</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7104"
+                                            >The Mighty Atom</ref></title>.</bibl></item>
+                            <item><bibl><author>Malet</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7033"
+                                            >The Carissima</ref></title>.</bibl></item>
+                            <item><bibl><author>Meynell</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7144"
+                                            >The Rhythm of Life</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7080"
+                                            >In Homespun</ref></title>.</bibl></item>
+                            <item><bibl><author>Schreiner</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7127"
+                                            >The Political Situation</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Marconi patents wireless telegraph</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df897" n="1897">
+                        <date when="1897">1897</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Butler</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7179"
+                                            >Truth Before Everything</ref></title>.</bibl></item>
+                            <item><bibl><author>Caird</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7025"
+                                            >Beyond the Pale</ref></title>.</bibl></item>
+                            <item><bibl><author>Cambridge</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7016"
+                                            >At Midnight</ref></title>.</bibl></item>
+                            <item><bibl><author>Lee</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7097"
+                                            >Limbo and other Essays</ref></title>.</bibl></item>
+                            <item><bibl><author>Schreiner</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7178"
+                                            >Trooper Peter Halket of
+                                    Mashonaland</ref></title>.</bibl></item>
+                            <item><bibl><author>Skene</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7172"
+                                            >A Test of the Truth</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Queen Victoria’s Diamond Jubilee</item>
+                            <item>Founding of the Tate Gallery</item>
+                            <item><bibl><author>Stoker</author>:
+                                <title>Dracula</title>.</bibl></item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df898" n="1898">
+                        <date when="1898">1898</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Eliza Lynn Linton<date when="1898"/> dies.</label> Writes
+                                on social customs and gender issues. One of the earliest
+                                professional woman journalists.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Corelli</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7111"
+                                            >The Modern Marriage Market</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7057"
+                                            >Songs of Love and Empire</ref></title>.</bibl></item>
+                            <item><bibl><author>Schreiner</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7054"
+                                            >Dreams</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df899" n="1899">
+                        <date when="1899">1899</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Felicia Skene<date when="1899"/> dies.</label> Scottish
+                                writer, poet, and advocate for prison reform.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Cholmondeley</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7143"
+                                            >Red Pottage</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7177"
+                                            >The Story of the Treasure
+                                Seekers</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Second Boer War (1899-1902)</item>
+                            <item>Ruskin College, Oxford founded</item>
+                            <item>Aspirin patented</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df900" n="1900">
+                        <date when="1900">1900</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Butler</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7116"
+                                            >Native Races and the War</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>British Labour Party founded</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df901" n="1901">
+                        <date when="1901">1901</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Charlotte Mary Yonge<date when="1901"/> dies.</label>
+                                Prolific novelist, yet most of her works are out of print.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Corelli</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7125"
+                                            >The Passing of the Great
+                                Queen</ref></title>.</bibl></item>
+                            <item><bibl><author>Malet</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7032"
+                                            >The History of Sir Richard
+                                    Calmady</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7199"
+                                            >The Wouldbegoods</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Queen Victoria dies</item>
+                            <item><label>The Factory and Workshop Act 1901</label> (minimum working age, worker
+                                education, increased safety)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df902" n="1902">
+                        <date when="1902">1902</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7065"
+                                            >Five Children and It</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7142"
+                                            >The Red House</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Coronation of Edward VII</item>
+                            <item>Balfour becomes Prime Minister (1902-1905)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df903" n="1903">
+                        <date when="1903">1903</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Wright brothers make first powered airplane flight</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df904" n="1904">
+                        <date when="1904">1904</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Isabella L. Bird<date when="1904"/> dies.</label> The most
+                                famous of the 'lady travelers' of the Victorian Era</item>
+                            <item><label>Frances Power Cobbe<date when="1904"/> dies.</label>
+                                Journalist, philanthropist, and activist for women's rights and
+                                animal rights.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Dixon</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7122"
+                                            >One Doubtful Hour</ref></title>.</bibl></item>
+                            <item><bibl><author>Radford</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7152"
+                                            >Sea-Thrift</ref></title>.</bibl></item>
+                            <item><bibl><author>Radford</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7084"
+                                            >The Young Gardeners'
+                                Kalendar</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df905" n="1905">
+                        <date when="1905">1905</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Campbell</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7140"
+                                            >The Rainbow and the Rose</ref></title>.</bibl></item>
+                            <item><bibl><author>Radford</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7171"
+                                            >In Summer-Time</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Campbell-Bannerman becomes Prime Minister (1905-1908)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df906" n="1906">
+                        <date when="1906">1906</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Josephine Elizabeth Grey Butler<date when="1906"/>
+                                    dies.</label> Activist for the poor and for women's
+                                rights.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Corelli</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7176"
+                                            >The Treasure of Heaven</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7081"
+                                            >The Incomplete Amorist</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7139"
+                                            >The Railway Children</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7012"
+                                            >The Story of the Amulet</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df907" n="1907">
+                        <date when="1907">1907</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Helen Taylor<date when="1907"/> dies.</label></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7058"
+                                            >The Enchanted Castle</ref></title>.</bibl></item>
+                            <item><bibl><author>Radford</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7189"
+                                            >A Ballad of Victory and Other
+                                    Poems</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df908" n="1908">
+                        <date when="1908">1908</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Ouida<date when="1908"/> dies.</label> (aka Marie Louise de
+                                la Ramee) An eccentric personality, her exploits often have received
+                                more attention than her works.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Lee</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7069"
+                                            >Gospels of Anarchy and Other Contemporary
+                                        Studies</ref></title>.</bibl></item>
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7021"
+                                            >Ballads and Lyrics of
+                                Socialism</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item>Asquith becomes Prime Minister (1908-1915)</item>
+                            <item>Henry Ford mass-produces the Model T automobile</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df909" n="1909">
+                        <date when="1909">1909</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7173"
+                                            >These Little Ones</ref></title>.</bibl></item>
+                            <item><bibl><author>Robins</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7192"
+                                            >Votes for Women</ref></title>.</bibl></item>
+                            <item><bibl><author>Schreiner</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7036"
+                                            >A Closer Union</ref></title>.</bibl></item>
+                            <item><bibl><author>Ward</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7046"
+                                            >Daphne, or Marriage a la
+                                Mode</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item>Opening of main entrance of Victoria and Albert Museum (designed
+                                by Aston Webb)</item>
+                        </list>
+                    </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df910" n="1910">
+                        <date when="1910">1910</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Radford</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7138"
+                                            >Poems</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df913" n="1913">
+                        <date when="1913">1913</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Cambridge</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7072"
+                                            >The Hand in the Dark and Other
+                                    Poems</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df914" n="1914">
+                        <date when="1914">1914</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Maud Keary</label>, birth and death dates unknown,
+                                publishes a collection of children's verses.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Keary, M.</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7182"
+                                            >Enchanted Tulips and Other Verses for
+                                        Children</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df915" n="1915">
+                        <date when="1915">1915</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Mary Elizabeth Braddon<date when="1915"/> dies.</label>
+                                Famed for her novels written in the 'sensation' genre.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df916" n="1916">
+                        <date when="1916">1916</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Ward</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7060"
+                                            >England's Effort</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df917" n="1917">
+                        <date when="1917">1917</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Meynell</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7075"
+                                            >Hearts of Controversy</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df918" n="1918">
+                        <date when="1918">1918</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Eliza Keary<date when="1918"/> dies.</label></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df920" n="1920">
+                        <date when="1920">1920</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Rhoda Broughton<date when="1920"/> dies.</label> Shocked
+                                Victorian sensibilities with her stories of women in love
+                                affairs.</item>
+                            <item><label>Louise Imogen Guiney<date when="1920"/> dies.</label>
+                                American poet and essayist.</item>
+                            <item><label>Dollie Radford<date when="1920"/> dies.</label> Feminist,
+                                poet, novelist, and short story writer.</item>
+                            <item><label>Olive Schreiner<date when="1920"/> dies.</label> A South
+                                African native, she wrote on religion, racism, and sexism.</item>
+                            <item><label>Mrs. Humphry Ward<date when="1920"/> dies.</label> (nee
+                                Mary Augusta Arnold) A prolific writer who wrote novels, plays, and
+                                journal articles, among other works.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df922" n="1922">
+                        <date when="1922">1922</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Alice Christina Thompson Meynell<date when="1922"/>
+                                    dies.</label> Poet, essayist, editor and critic. A prolific
+                                writer, she published works on many topics in many forms: essays,
+                                poetry, translations, anthologies.</item>
+                        </list>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Nesbit</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7100"
+                                            >Many Voices</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df923" n="1923">
+                        <date when="1923">1923</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Schreiner</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7150"
+                                            >Stories, Dreams and
+                                Allegories</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df924" n="1924">
+                        <date when="1924">1924</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Marie Corelli<date when="1924"/> dies.</label> Was a
+                                best-selling author for decades.</item>
+                            <item><label>Edith Nesbit<date when="1924"/> dies.</label> One of the
+                                most prolific fantasy writers of her time.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df925" n="1925">
+                        <date when="1925">1925</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Bessie Rayner Belloc<date when="1925"/> dies.</label> Poet,
+                                activist, feminist, journalist. Helped establish the English Woman's
+                                Journal.</item>
+                            <item><label>Mary Cholmondeley<date when="1925"/> dies.</label></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df926" n="1926">
+                        <date when="1926">1926</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Ada Cambridge<date when="1926"/> dies.</label> One of the
+                                best-known Australian writers of her time.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df928" n="1928">
+                        <date when="1928">1928</date>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><bibl><author>Schreiner</author>: <title><ref
+                                            target="http://purl.dlib.indiana.edu/iudl/TEIgeneral/VAB7185"
+                                            >Undine</ref></title>.</bibl></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df929" n="1929">
+                        <date when="1929">1929</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Flora Annie Webster Steel<date when="1929"/>
+                                dies.</label></item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df931" n="1931">
+                        <date when="1931">1931</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Lucas Malet<date when="1931"/> dies.</label> (aka Mary St.
+                                Leger Kingsley Harrison) Her novels were controversial in their
+                                frank portrayals of sexuality and religion.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df932" n="1932">
+                        <date when="1932">1932</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Mona Caird<date when="1932"/> dies.</label> Part of the New
+                                Woman writers, she achieved notoriety due to her writings on
+                                marriage in Victorian times.</item>
+                            <item><label>Ella Hepworth Dixon (Margaret Wynman)<date when="1932"/>
+                                    dies.</label> Author, editor, playwright, and activist against
+                                the oppression of women.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df935" n="1935">
+                        <date when="1935">1935</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="simple">
+                            <item><label>Vernon Lee<date when="1935"/> dies.</label> Wrote on
+                                travel, fantasy, and art history, among other topics.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+                <row role="data">
+                    <cell role="data" xml:id="df952" n="1952">
+                        <date when="1952">1952</date>
+                    </cell>
+                    <cell role="data">
+                        <list type="bulleted">
+                            <item><label>Victoria Cross<date when="1952"/> dies.</label> Her novels
+                                contained candid portayals of sexuality and psychology.</item>
+                            <item><label>Elizabeth Robins<date when="1952"/> dies.</label> Novelist,
+                                playwright, actress.</item>
+                        </list>
+                    </cell>
+                    <cell role="data"> </cell>
+                    <cell role="data"> </cell>
+                </row>
+            </table>
+        </body>
+    </text>
+</TEI>

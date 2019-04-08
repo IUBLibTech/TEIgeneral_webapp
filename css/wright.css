@@ -1,0 +1,439 @@
+@import url("tei-general.css");
+@import url("toc.css");
+
+body {
+	color: black;
+	background: white;
+}
+
+div#bannerDiv {
+	border: none;
+	background-color: none;
+	height: 92px;
+}
+
+img#banner {
+	height: 92px;
+	border: 2px solid #7E7063;
+	/* background-image: url(../images/WrightBanner.jpg); */
+	background-repeat: no-repeat;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	border-radius: 6px;
+}
+
+div#navigation {
+	border: 2px solid #7E7063;
+	background-color: white;
+	margin-top: 4px;
+	-moz-border-radius-topleft:6px;
+	-moz-border-radius-topright:6px;
+	-webkit-border-top-right-radius:6px;
+	-webkit-border-top-left-radius:6px;
+	-khtml-border-top-right-radius: 6px;
+	-khtml-border-top-left-radius: 6px;
+	border-top-left-radius:6px;
+	border-top-right-radius: 6px;
+
+}
+
+ul#main_nav li:nth-child(7) { display: none; }
+
+div#printNavigation {
+	border: 4px solid #493F41;
+	background-color: white;
+}
+
+div#content, div#print_content {
+	border-left: 2px solid #7E7063;
+	border-right: 2px solid #7E7063;
+	border-bottom: 2px solid #7E7063;
+	/*	background-color: #A89673; */
+	background-color: #9CA7A3;
+	color: #413838;
+}
+
+div.captioned div a, div#images a {
+	color: black;
+}
+
+#imagecredit {
+	margin-left: 12px;
+	font-size: 10px;
+}
+
+div#doc-search-options h2 {
+        color: white;
+        background-color: #7E7063;
+        border: 3px solid #7E7063;
+		-moz-border-radius-topleft: 6px;
+		-webkit-border-top-left-radius: 6px;
+		-khtml-border-top-left-radius: 6px;
+		-moz-border-radius-topright: 6px;
+		-webkit-border-top-right-radius: 6px;
+		-khtml-border-top-right-radius: 6px;
+		border-top-left-radius: 6px;
+		border-top-right-radius: 6px;
+}
+
+div#doc-search-options div.search-options {
+        background-color: white;
+        color: black;
+        border: 3px solid white;
+		-moz-border-radius-bottomleft: 6px;
+		-webkit-border-bottom-left-radius: 6px;
+		-khtml-border-bottom-left-radius: 6px;
+		-moz-border-radius-bottomright: 6px;
+		-webkit-border-bottom-right-radius: 6px;
+		-khtml-border-bottom-right-radius: 6px;
+		border-bottom-left-radius: 6px;
+		border-bottom-right-radius: 6px;
+}
+
+div#docView {
+        background-color: #ffffff;
+        color: black;
+        border: 2px solid #7E7063;
+        line-height: 1.2em;
+		-moz-border-radius: 6px;
+		-webkit-border-radius: 6px;
+		-khtml-border-radius:6px;
+		border-radius: 6px;
+
+}
+
+div#docViewFull, .viewFullWidth {
+		border: 2px solid #7E7063;
+		-moz-border-radius: 6px;
+		-webkit-border-radius: 6px;
+		-khtml-border-radius:6px;
+		border-radius: 6px;
+}
+
+div#tocView, div#viewOptions, div#relatedMaterials {
+        background-color: #ffffff;
+        color: black;
+        border: 2px solid #7E7063;
+		-moz-border-radius: 6px;
+		-webkit-border-radius: 6px;
+		-khtml-border-radius:6px;
+		border-radius: 6px;
+}
+
+.textView {
+	border: 2px solid #7E7063;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-khtml-border-radius:6px;
+	border-radius: 6px;
+}
+
+
+form#search {
+	background-color: white;
+	border: 1px solid #7E7063;
+	color: black;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-khtml-border-radius:6px;
+	border-radius: 6px;
+
+}
+
+div#content strong.searchTerms {
+        border: 1px solid #7E7063;
+        background-color: white;
+        color: black;
+	-moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -khtml-border-radius:6px;
+    border-radius: 6px;
+}
+
+/* div#results {
+        background-color: #ffffff;
+        color: black;
+        border: 2px solid #7E7063;
+} */
+
+div#results {
+	background: none;
+	border: none;
+	padding: 0;
+}
+
+.paging {
+        background-color: #ffffff;
+        color: black;
+        border: 2px solid #7E7063;
+		-moz-border-radius: 6px;
+       -webkit-border-radius: 6px;
+       -khtml-border-radius: 6px;
+        border-radius: 6px;
+}
+
+#mysel_pagetop, #mysel_pagebottom {
+        background-color: #ffffff;
+        color: black;
+        border: 2px solid #7E7063;
+		-moz-border-radius: 6px;
+       -webkit-border-radius: 6px;
+       -khtml-border-radius: 6px;
+        border-radius: 6px;		
+}
+
+#browseResults {
+    background-color: #ffffff;
+        border: 2px solid #7E7063;
+        color: black;
+        width: auto;
+        margin-right: 10px;
+		-moz-border-radius: 6px;
+       -webkit-border-radius: 6px;
+       -khtml-border-radius: 6px;
+        border-radius: 6px;
+}
+
+#AZContainer {
+        background-color:#ffffff;
+        border: 2px solid #7E7063;
+        color: #000000;
+		-moz-border-radius: 6px;
+       -webkit-border-radius: 6px;
+       -khtml-border-radius: 6px;
+        border-radius: 6px;
+}
+
+#itemMetadata {
+        background-color: #ffffff;
+        border: 2px solid #7E7063;
+		-moz-border-radius: 6px;
+       -webkit-border-radius: 6px;
+       -khtml-border-radius: 6px;
+        border-radius: 6px;
+}
+
+
+div.sidemenu {
+	background-color: white;
+	-moz-border-radius-bottomleft: 6px;
+	-webkit-border-bottom-left-radius: 6px;
+	-khtml-border-bottom-left-radius: 6px;
+	-moz-border-radius-bottomright: 6px;
+	-webkit-border-bottom-right-radius: 6px;
+	-khtml-border-bottom-right-radius: 6px;
+	border-bottom-left-radius: 6px;
+	border-bottom-right-radius: 6px;
+}
+
+h2.sidemenu_heading {
+	color: white;
+	background-color: #7E7063;
+	border: 3px solid #7E7063;
+	-moz-border-radius-topleft: 6px;
+	-webkit-border-top-left-radius: 6px;
+	-khtml-border-top-left-radius: 6px;
+	-moz-border-radius-topright: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-khtml-border-top-right-radius: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+}
+
+#docView p.footnote, #docViewFull p.footnote, #print_contents p.footnote, #docView .notes, #docViewFull .notes, #print_contents .notes {
+	padding-top: 0px;
+	font-size: smaller;
+	color: #666666;
+}
+
+.blockquoteletter {
+	border: 1px solid #666666;
+	background-color: #EEEEEE;
+	padding: 8px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+div#results dl.resultItemPAGE {
+	float: right;
+	width: 100%;
+	margin-right: 0;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	-moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -khtml-border-radius:6px;
+    border-radius: 6px;
+	background-color: #ffffff;
+    color: black;
+    border: 2px solid #7E7063;
+	padding: 10px;
+	background: none;
+	background: url('../images/page.png') #ffffff no-repeat 10px 5px;
+}
+
+div#results dl.resultItemBOOK {
+	float: right;
+	width: 100%;
+	margin-right: 0;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	-moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -khtml-border-radius:6px;
+    border-radius: 6px;
+	background-color: #ffffff;
+    color: black;
+    border: 2px solid #7E7063;
+	padding: 10px;
+	background: #ffffff;
+#	background: url('../images/book.png') #ffffff no-repeat 10px 5px;
+}
+
+div.noresults {
+	float: right;
+	margin-right: 10px;
+	margin-top: 4px;
+	margin-bottom: 4px;
+	-moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -khtml-border-radius:6px;
+    border-radius: 6px;
+	background-color: #ffffff;
+    color: black;
+    border: 2px solid #7E7063;
+	padding: 10px;
+}
+
+dl.resultItemBOOK dd.resultType, dl.resultItemPAGE dd.resultType {
+	font-weight: bold;
+	margin-left: 0;
+	margin-bottom: 10px;
+	padding-left: 30px;
+	font-size: x-large;
+}
+
+dl.resultItemBOOK dt, dl.resultItemPAGE dt {
+	float: left;
+    clear: left;
+    font-weight: bold;
+}
+
+dl.resultItemBOOK dd, dl.resultItemPAGE dd {
+	margin: 0 0 0 150px;
+    padding: 0 0 0.3em 0;
+}
+
+dl.resultItemBOOK dt.resultSnippets, dl.resultItemPAGE dt.resultSnippets {
+	float: none;
+    clear: left;
+    font-weight: bold;
+    padding: 6px 0px;
+}
+
+dl.resultItemBOOK dd.resultSnippets, dl.resultItemPAGE dd.resultSnippets {
+	margin: 0;
+	padding: 0;
+}
+
+dl.resultItemBOOK dd.addToMySelection, dl.resultItemPAGE dd.addToMySelection {
+	padding: 6px 0px 3px 0px;
+}
+
+dl.resultItemBOOK dt.myselections_status, dl.resultItemPAGE dt.myselections_status { 
+	position: absolute;
+	top: -9999em;
+	left: -9999em;
+}
+
+#relatedMaterials {
+	padding: 10px;
+	margin: 10px;
+	line-height: 1.2em;
+	width: 250px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-khtml-border-radius:6px;
+	border-radius: 6px;
+	float: left;
+	clear: left;
+}
+
+#relatedMaterials h2 { font-weight: bold; }
+
+#relatedMaterials ul {
+	list-style-type: none;
+	padding-left: 6px;
+	margin: 0;
+}
+
+#relatedMaterials ul li { padding: 0 0 8px 0; }
+
+/*-------------------- TIMELINE --------------------*/
+
+div.legend, div.decades, div#my-timeline {
+    	margin:0;
+        padding:0;
+        font-family: Corbel, Verdana, Helvetica;
+        font-size: small;
+    }
+            
+	div#my-timeline {margin:1em; border: 2px solid #444444;}
+	
+	div.legend {
+		width:50%;
+		padding:.7em;
+		margin:auto;
+		text-align:center;
+		border:1px solid black;
+		background-color:#7E7063;
+		color: #000000;
+	}
+
+	div.legend img {
+		border: 1px solid black;
+	}
+
+	span.legend-label { font-weight:bold; margin-right:1em; margin-left:.2em; color: #ffffff; font-size: larger; }
+
+	.timeline-band-0 .timeline-ether-bg, .legend-author {background-color:#cccccc;}
+	.timeline-band-1 .timeline-ether-bg	{ background-color:#333333; }
+	.timeline-band-2 .timeline-ether-bg, .legend-publication {background-color:#eeeeee;}
+	.timeline-band-3 .timeline-ether-bg, .legend-historical {background-color:#ffffff;}
+	
+	.timeline-date-label { color: #444444; border: 1px dotted #666666; }
+	.timeline-date-label-em { font-weight: bold; }
+	.timeline-band-1 .timeline-date-label { color: #eeeeee; }
+	.timeline-event-label { font-weight: bold; color: #000000; }
+	.timeline-event-bubble-time { color: #000000; font-weight: bold; }
+	
+	.legend-author, .legend-publication, .legend-historical { padding: 2px 4px; border: 1px solid black; margin-right: 20px; font-weight: bold; }
+	.legend-author { padding: 2px 14px; }
+	.legend-historical { padding: 2px 8px; }
+
+	div.decades {
+		margin:auto;
+		margin:.5em;
+		text-align:center;
+	}
+
+	div.decades a {margin-right: 3em; font-size:110%; color: #ffffff; text-decoration: none; }
+    div.decades a:hover { text-decoration: underline; }
+
+	.bibl {
+    	display: block;
+	    margin-left: 2em;
+    	text-indent: -2em;
+	    padding: 0;
+	}
+
+	.genericHeading {
+		font-weight:bold;
+	}
+	
+	div.viewFullWidth h2 { font-weight: bold; text-align: center; text-transform: uppercase; padding-bottom: 5px; }
+	
+	.timeline-event-icon img { display: none; } 
+	.timeline-event-icon { background: url('http://api.simile-widgets.org/timeline/2.3.1/images/dull-red-circle.png') no-repeat; height: 10px; width: 10px; } 
+

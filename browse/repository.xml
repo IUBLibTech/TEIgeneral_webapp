@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:functx="http://www.functx.com"
+      xmlns:exsl="http://exslt.org/common"
+      xmlns:iutei="http://www.dlib.indiana.edu/collections/TEIgeneral/">
+   <term code="wright">Wright American Fiction</term>
+   <term code="TEIgeneral">TEI General</term>
+</list>

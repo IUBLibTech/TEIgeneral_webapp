@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<!DOCTYPE tiles-definitions PUBLIC
+  "-//Apache Software Foundation//DTD Tiles Configuration 1.3//EN"
+  "http://jakarta.apache.org/struts/dtds/tiles-config_1_3.dtd"
+>
+
+<tiles-definitions>
+  
+  <!--
+    =====================================================================
+    B A S E   P A G E   D E F I N A T I O N S
+    =====================================================================
+    These are definations for base pages. These definations defines
+    pages without putting all tiles. They are to be extended by other
+    pages.
+    =====================================================================
+  -->
+  <definition name="main.base.page" page="/WEB-INF/layouts/mainLayout.jsp">
+    <put name="banner" value="/WEB-INF/tiles/common/banner.jsp"/>
+    <put name="siteNavigation" value="/WEB-INF/tiles/common/siteNavigation.jsp"/>
+    <put name="footer" value="/WEB-INF/tiles/common/footer.jsp"/>
+    <put name="body" value="${body}"/>
+    
+    <putList name="scripts">
+    	<add value="/js/iufa/functions.js" />
+    </putList>
+    
+    <putList name="styles">
+      
+    	<add value="/css/default.css" />
+    
+    </putList>    
+  </definition>
+  
+  <!--
+    =====================================================================
+    P A G E   D E F I N A T I O N S
+    =====================================================================
+    Define pages that are fully populated with tiles
+    =====================================================================
+  -->
+  <definition name="dynaView.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/dynaView.jsp"/>
+    <put name="title" value="Document View"/>
+  </definition>
+  
+  <definition name="home.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/home.html"/>
+    <put name="title" value="Home"/>
+  </definition>  
+  
+  <definition name="browse.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/browse.jsp"/>
+    <putList name="browseScripts">
+    	<add value="/js/jquery/jquery-1.2.6.min.js" />
+    	<add value="/js/jquery/jquery.tagcloud.min.js" />
+    </putList>
+    <put name="title" value="Browse"/>
+    <put name="onload" value="$('#genre').tagcloud({type:'sphere',sizemin:16,sizemax:64,colormin:'666',colormax:'990000',height:300});"/>
+  </definition>
+  
+  <definition name="browsemobile.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/browse.jsp"/>
+    <putList name="browseScripts">
+    	<add value="/js/jquery/jquery-1.2.6.min.js" />
+    	<add value="/js/jquery/jquery.tagcloud.min.js" />
+    </putList>
+    <put name="title" value="Browse"/>
+    <put name="onload" value="$('#genre').tagcloud({type:'list',sizemin:16,sizemax:64,colormin:'666',colormax:'990000',height:300});"/>
+  </definition>
+  
+  <definition name="projectinfo.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/projectinfo/index.jsp"/>
+    <put name="title" value="Project Information"/>
+  </definition>
+  
+  <definition name="projectinfo.copyright.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/projectinfo/copyright.html"/>
+    <put name="title" value="Copyright and Conditions of Use"/>
+  </definition>
+  
+  <definition name="projectinfo.people.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/projectinfo/people.html"/>
+    <put name="title" value="Project Partners"/>
+  </definition>
+  
+  <definition name="projectinfo.papers.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/projectinfo/papers.html"/>
+    <put name="title" value="Publications and Presentations"/>
+  </definition>
+  
+  <definition name="projectinfo.encoding.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/projectinfo/encoding.html"/>
+    <put name="title" value="Encoding Overview"/>
+  </definition>
+
+  <definition name="projectinfo.technical.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/projectinfo/technical.html"/>
+    <put name="title" value="Technical Implementation Overview"/>
+  </definition>
+  
+  <definition name="help.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/help.html"/>
+    <put name="title" value="Help"/>
+  </definition>
+  
+  <definition name="timeline.page" extends="main.base.page">
+    <put name="body" value="/WEB-INF/tiles/pages/timeline.html"/>
+    <put name="title" value="Timeline"/>
+    <putList name="timelineScripts">
+    	<add value="http://api.simile-widgets.org/timeline/2.3.1/timeline-api.js" />
+    	<add value="http://www.simile-widgets.org/timeline/examples/examples.js" />
+    	<add value="/TEIgeneral/js/iufa/timeline.js"/>
+    </putList>
+    <put name="onload" value="onLoad()"/>
+  </definition>
+  
+  <definition name="search.simple.form" extends="main.base.page">
+    
+  	<put name="body" value="/WEB-INF/tiles/pages/search/simpleForm.jsp"/>
+  	<put name="title" value="Search"/>
+  
+  </definition>
+  
+  
+  
+  <definition name="search.advanced.form" extends="main.base.page">
+    
+  	<put name="body" value="/WEB-INF/tiles/pages/search/advancedForm.jsp"/>
+  	<put name="title" value="Search"/>
+  
+  </definition>
+  
+  
+  
+  <definition name="search.result.page" extends="main.base.page">
+    
+  	<put name="body" value="/WEB-INF/tiles/pages/search/result.jsp"/>
+  	<put name="title" value="Search Results"/>
+  
+  </definition>  
+  
+</tiles-definitions>

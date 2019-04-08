@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:functx="http://www.functx.com"
+      xmlns:exsl="http://exslt.org/common"
+      xmlns:iutei="http://www.dlib.indiana.edu/collections/TEIgeneral/">
+   <term size="4">1830-1839</term>
+   <term size="8">1840-1849</term>
+   <term size="17">1850-1859</term>
+   <term size="24">1860-1869</term>
+   <term size="21">1870-1879</term>
+   <term size="34">1880-1889</term>
+   <term size="52">1890-1899</term>
+   <term size="23">1900-1909</term>
+   <term size="5">1910-1919</term>
+   <term size="3">1920-1929</term>
+   <term size="1">Date Unknown</term>
+</list>

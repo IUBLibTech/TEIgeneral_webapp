@@ -1,0 +1,36 @@
+
+<div id="content" class="clearfix" role="main">
+	<h2 id="mainheading">Technical Implementation Overview</h2>
+	<div class="viewFullWidth">
+<p>
+The delivery and discovery capabilities of this site are implemented using a customized version
+ of the open source <a href="http://www.cdlib.org/services/publishing/tools/xtf/">eXtensible Text Framework (XTF)</a> 
+developed by the California Digital Library. It is served using the Tomcat application server and Apache HTTP Server software.
+</p>
+<p>
+Local customizations to XTF at Indiana University include a unique native page image viewer and a page turner that are
+both driven exclusively by the information encoded in the source TEI files and require no additional software beyond
+what can be accomplished by customizing XTF's XSLT templates. This feature enables switching between text and page
+images at any time while navigating a document's structure, and allows viewing of one or more page images as moveable
+overlays simultaneously with the text in the paged text mode. The actual page images are stored and delivered via the
+IU Digital Library Program's Fedora repository.
+</p>
+
+<p>
+The facsimile page images for this project were originally processed as “two-up” images as opposed to a single page image view.  We maintain this “two-up” view in the migration and as a result had to make minor customizations to the image viewer.
+</p>
+
+<p>
+The original texts are stored in a local e-text repository called Xubmit, which was developed by the IU Digital Library Program. 
+Xubmit is comprised of web services using Java and Axis, the Revision Control System (RCS) for file versioning, and a 
+graphical user interface developed in Java that is delivered using the Tomcat application server. Along with the 
+XML/TEI P5 files, Xubmit stores the schema and Schematron files for the project as well.
+</p>
+
+<p>Digital page images were initially created by <a href="http://www.oclc.org/oclc/presres/">Preservation Resources</a>, a division of OCLC.</p>
+
+
+    </div>
+	
+    <br class="clear_both" />
+</div> <!-- END CONTENT -->
